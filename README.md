@@ -1,2 +1,12 @@
 # belly-button-challenge
-build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
+
+
+# Overview
+Build an interactive dashboard to explore the Belly Button Biodiversity dataset from http://robdunnlab.com/projects/belly-button-biodiversity/ , which catalogs the microbes that colonize human navels.
+
+
+
+## Tools & Languages Used
+
+## Deliverables
+
