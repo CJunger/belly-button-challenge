@@ -84,7 +84,7 @@ function init() {
 }
 
 //changes option we are selection function
-function optionChange(newSample) {
+function optionChanged(newSample) {
     buildCharts(newSample);
     buildmetadata(newSample);
 }
