@@ -29,5 +29,7 @@ D3, Javascript, HTML, Plotly
 
 ## Deliverables
 
+ <img width="580" alt="Screenshot 2023-09-24 at 2 38 42 PM" src="https://github.com/CJunger/belly-button-challenge/assets/131617662/5fddcb17-5ed8-4e6b-9702-4f95a14cd32c">
+
 ### References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
